@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">YMap</string>
+    <string name="token" translatable="false">pk.eyJ1IjoiYWxpeWF6ZGFuaWZhciIsImEiOiJja2JhdDYyanUwa3p2MzBud3g1bmE1dGdnIn0.k6teKTKQyKQ6qlXJmAdoOQ</string>
+    <string name="nav" translatable="false">sk.eyJ1IjoiYWxpeWF6ZGFuaWZhciIsImEiOiJja2JibnQ3eTQwMzZ5MnBud3BnMG1xdG93In0.uFwDKfBrDAEmbgohxk0GAg</string>
+    <string name="user_location_permission_explanation">This app needs location permissions to show its functionality.</string>
+    <string name="user_location_permission_not_granted">You didn\'t grant location permissions.</string>
+</resources>
